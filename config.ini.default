@@ -1,0 +1,9 @@
+[global]
+mqtt-host=localhost
+mqtt-port=1883
+
+[secret]
+slack-token=
+slack-channel=
+slack-username=
+slack-emoji=
